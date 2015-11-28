@@ -1,0 +1,84 @@
+.navbar-bg{
+	width:100%;
+	background:url(../images/nav-bg.png);
+	background-repeat:repeat;
+	margin:0;
+}
+
+.back_to{
+	width: 100%;
+    background: rgba(79, 86, 85, 0.27);
+    text-align: center;
+    padding: 5px 0 5px 0;
+    list-style: none;
+	font-size:25px;
+	font-family:cursive;
+}
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+header{
+	width:100%;
+	background:#DD5555;
+	color:#fff;
+	padding:10px 0 10px 0;
+}
+
+header a{
+	text-decoration:none;
+	color:#fff;
+}
+
+#main_wrapper .left_area h1{
+	color:#3b5998;
+	font-size:45px;
+}
+#main_wrapper .left_area h2{
+	color:#4e5665;
+	font-size:25px;
+}
+#main_wrapper .left_area h3{
+	color:#D6DBEA;
+	font-size:30px;
+	background:#39579A;
+	display:block;
+	margin:3% 47% 0% 47%;
+	border-radius: 3px;
+}
+
+#main_wrapper .form_area h1{
+	font-size:36px;
+	color:#333;
+}
+#main_wrapper .form_area p{
+	font-size:19px;
+	color:#141823;
+}
+#main_wrapper .form_area h6{
+	font-size:11px;
+	color:#777;
+	line-height: 18px;
+}
+
+#main_wrapper .form_area p span{
+	font-size:15px;
+	color:#666;
+	border-top: 1px solid #a0a9c0;
+	padding-top: 15px;
+}
+
+#username{
+	border-radius:0px!important;
+}
+
+#Password{
+	border-radius:0px!important;
+}
+.subbtn{
+	border-radius:0px!important;
+	background:#BD1E1E!important
+}
